@@ -1,0 +1,11 @@
+{
+  "name": "clientgame",
+  "version": "1.0.0",
+  "description": "Client Game writing NodeJS, is client test for Unity Game",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuan Khanh (NTTKDeveloper)",
+  "license": "ISC"
+}
